@@ -1,4 +1,9 @@
-#title {
+body{ background-color: aquamarine;
+
+ }
+
+
+#title {color: azure;
     font-size: 400%;
     width: 60vmax;
   }
